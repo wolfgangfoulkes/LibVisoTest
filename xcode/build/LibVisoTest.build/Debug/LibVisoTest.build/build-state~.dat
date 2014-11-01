@@ -1,0 +1,1330 @@
+TLibVisoTest
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/wolfgag/LibVisoTest/xcode/build/Debug/LibVisoTest.app/Contents/Info.plist /Users/wolfgag/LibVisoTest/xcode/Info.plist
+cCpResource /Users/wolfgag/LibVisoTest/resources/CinderApp.icns build/Debug/LibVisoTest.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch.pch LibVisoTest_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso.o /Users/wolfgag/LibVisoTest/xcode/viso.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_stereo.o /Users/wolfgag/LibVisoTest/xcode/viso_stereo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_mono.o /Users/wolfgag/LibVisoTest/xcode/viso_mono.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/triangle.o /Users/wolfgag/LibVisoTest/xcode/triangle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/reconstruction.o /Users/wolfgag/LibVisoTest/xcode/reconstruction.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matrix.o /Users/wolfgag/LibVisoTest/xcode/matrix.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matcher.o /Users/wolfgag/LibVisoTest/xcode/matcher.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/filter.o /Users/wolfgag/LibVisoTest/xcode/filter.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/demo.o /Users/wolfgag/LibVisoTest/xcode/demo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/LibVisoTestApp.o /Users/wolfgag/LibVisoTest/src/LibVisoTestApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005311A664000000000000044C
+t1393665636
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005311A66400000000000001DE
+t1393665636
+s478
+
+N/Users/wolfgag/LibVisoTest/resources/CinderApp.icns
+c00000000544C2C820000000000070375
+t1414278274
+s459637
+
+N/Users/wolfgag/LibVisoTest/src/LibVisoTestApp.cpp
+c00000000544C47100000000000000D4F
+t1414285072
+s3407
+
+N/Users/wolfgag/LibVisoTest/xcode/Info.plist
+c00000000544C2C820000000000000462
+t1414278274
+s1122
+
+N/Users/wolfgag/LibVisoTest/xcode/LibVisoTest_Prefix.pch
+c00000000544C2C82000000000000012D
+t1414278274
+s301
+
+N/Users/wolfgag/LibVisoTest/xcode/build/Debug/LibVisoTest.app/Contents/Info.plist
+t2
+s0
+
+N/Users/wolfgag/LibVisoTest/xcode/build/Debug/LibVisoTest.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/wolfgag/LibVisoTest/xcode/build/Debug/LibVisoTest.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/LibVisoTestApp.o
+t2
+s0
+
+N/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/demo.o
+t2
+s0
+
+N/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/filter.o
+t2
+s0
+
+N/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matcher.o
+t2
+s0
+
+N/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matrix.o
+t2
+s0
+
+N/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/reconstruction.o
+t2
+s0
+
+N/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/triangle.o
+t2
+s0
+
+N/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso.o
+t2
+s0
+
+N/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_mono.o
+t2
+s0
+
+N/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_stereo.o
+t2
+s0
+
+N/Users/wolfgag/LibVisoTest/xcode/demo.cpp
+c00000000522E03E000000000000010EA
+t1378747360
+s4330
+
+N/Users/wolfgag/LibVisoTest/xcode/filter.cpp
+c00000000522E03E000000000000051AD
+t1378747360
+s20909
+
+N/Users/wolfgag/LibVisoTest/xcode/matcher.cpp
+c00000000524D900A000000000000DC94
+t1380814858
+s56468
+
+N/Users/wolfgag/LibVisoTest/xcode/matrix.cpp
+c00000000522E03E00000000000005A0A
+t1378747360
+s23050
+
+N/Users/wolfgag/LibVisoTest/xcode/reconstruction.cpp
+c00000000541706CA0000000000002CA6
+t1410795210
+s11430
+
+N/Users/wolfgag/LibVisoTest/xcode/triangle.cpp
+c00000000527C5EFE000000000005F4F7
+t1383882494
+s390391
+
+N/Users/wolfgag/LibVisoTest/xcode/viso.cpp
+c00000000522E03E00000000000000B71
+t1378747360
+s2929
+
+N/Users/wolfgag/LibVisoTest/xcode/viso_mono.cpp
+c00000000522E03E00000000000002C92
+t1378747360
+s11410
+
+N/Users/wolfgag/LibVisoTest/xcode/viso_stereo.cpp
+c0000000053987D500000000000002981
+t1402502480
+s10625
+
+N/var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch.pch
+t1414285078
+s66229320
+
+CBuild AST from /Users/wolfgag/LibVisoTest/src/LibVisoTestApp.cpp
+r0
+
+CBuild AST from /Users/wolfgag/LibVisoTest/xcode/demo.cpp
+r0
+
+CBuild AST from /Users/wolfgag/LibVisoTest/xcode/filter.cpp
+r0
+
+CBuild AST from /Users/wolfgag/LibVisoTest/xcode/matcher.cpp
+r0
+
+CBuild AST from /Users/wolfgag/LibVisoTest/xcode/matrix.cpp
+r0
+
+CBuild AST from /Users/wolfgag/LibVisoTest/xcode/reconstruction.cpp
+r0
+
+CBuild AST from /Users/wolfgag/LibVisoTest/xcode/triangle.cpp
+r0
+
+CBuild AST from /Users/wolfgag/LibVisoTest/xcode/viso.cpp
+r0
+
+CBuild AST from /Users/wolfgag/LibVisoTest/xcode/viso_mono.cpp
+r0
+
+CBuild AST from /Users/wolfgag/LibVisoTest/xcode/viso_stereo.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies39f0ce907efcb941^d00ddd907efcb941^---0#1#1#--18"Check dependencies36"77192678-3AE2-4F19-802C-04EF7F5699A0-
+
+CCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/LibVisoTestApp.o /Users/wolfgag/LibVisoTest/src/LibVisoTestApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s435977881.720575
+e435977885.453823
+r1
+xCompileC
+xbuild/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/LibVisoTestApp.o
+x/Users/wolfgag/LibVisoTest/src/LibVisoTestApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wolfgag/LibVisoTest/src/LibVisoTestApp.cpp
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/app/AppNative.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/gl/Texture.h
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/CinderOpenCV.h
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/opencv.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/core/core_c.h
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/core/types_c.h
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/core/core.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/core/version.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/core/operations.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/core/mat.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/flann/miniflann.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/flann/defines.h
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/flann/config.h
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/imgproc/imgproc_c.h
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/imgproc/types_c.h
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/imgproc/imgproc.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/photo/photo.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/photo/photo_c.h
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/video/video.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/video/tracking.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/video/background_segm.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/features2d/features2d.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/objdetect/objdetect.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/calib3d/calib3d.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/ml/ml.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/highgui/highgui_c.h
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/highgui/highgui.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/contrib/contrib.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/contrib/retina.hpp
+d/Users/wolfgag/LibVisoTest/blocks/OpenCV/include/opencv2/contrib/openfabmap.hpp
+d/Users/wolfgag/indoorPositioning/libviso2/src/viso.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/matrix.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/matcher.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/triangle.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/viso_stereo.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/viso_mono.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/filter.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/reconstruction.h
+o/Users/wolfgag/LibVisoTest/src/LibVisoTestApp.cpp:67:9: warning: unused variable 'h2' [-Wunused-variable]
+o    int h2 = f2.rows;
+o        ^
+o/Users/wolfgag/LibVisoTest/src/LibVisoTestApp.cpp:66:9: warning: unused variable 'w2' [-Wunused-variable]
+o    int w2 = f2.cols;
+o        ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/wolfgag/LibVisoTest/src/LibVisoTestApp.cpp203"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/LibVisoTestApp.o /Users/wolfgag/LibVisoTest/src/LibVisoTestApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler7c9bbe997efcb941^022e749d7efcb941^-298"/Users/wolfgag/LibVisoTest/src/LibVisoTestApp.cpp:67:9: warning: unused variable 'h2' [-Wunused-variable]    int h2 = f2.rows;        ^/Users/wolfgag/LibVisoTest/src/LibVisoTestApp.cpp:66:9: warning: unused variable 'w2' [-Wunused-variable]    int w2 = f2.cols;        ^2 warnings generated.-0#0#1#-19%DVTDocumentLocation2@56"file:///Users/wolfgag/LibVisoTest/src/LibVisoTestApp.cpp0000000000000000^3021"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/LibVisoTestApp.o /Users/wolfgag/LibVisoTest/src/LibVisoTestApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wolfgag/LibVisoTest/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-generated-files.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-own-target-headers.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-all-target-headers.hmap -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-project-headers.hmap -iquote../../cinder_0.8.5_mac/include -iquote../include -iquote../blocks/OpenCV/include -iquote../blocks/OpenCV/include/opencv2 -iquote../blocks/QuickTime/include -iquote/Users/wolfgag/indoorPositioning/libviso2/src -I/Users/wolfgag/LibVisoTest/xcode/build/Debug/include -I../../cinder_0.8.5_mac/boost -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources/i386 -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources -F/Users/wolfgag/LibVisoTest/xcode/build/Debug -include /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch -MMD -MT dependencies -MF /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/LibVisoTestApp.d --serialize-diagnostics /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/LibVisoTestApp.dia -c /Users/wolfgag/LibVisoTest/src/LibVisoTestApp.cpp -o /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/LibVisoTestApp.o36"2F6887A8-2C9E-4EE5-AE87-E32A42946CCA-
+b7762F40F-DA6D-4F05-A9D3-C4B22FBA0FA6
+
+CCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/demo.o /Users/wolfgag/LibVisoTest/xcode/demo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s435977881.641264
+e435977883.339664
+r0
+xCompileC
+xbuild/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/demo.o
+x/Users/wolfgag/LibVisoTest/xcode/demo.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/wolfgag/LibVisoTest/xcode/demo.cpp:34:10: error: 'viso_stereo.h' file not found with <angled> include; use "quotes" instead
+o#include <viso_stereo.h>
+o         ^~~~~~~~~~~~~~~
+o         "viso_stereo.h"
+o/Users/wolfgag/LibVisoTest/xcode/demo.cpp:35:10: fatal error: 'png++/png.hpp' file not found
+o#include <png++/png.hpp>
+o         ^
+o2 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Compile /Users/wolfgag/LibVisoTest/xcode/demo.cpp152"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/demo.o demo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler139cbe997efcb941^8f34589b7efcb941^-355"/Users/wolfgag/LibVisoTest/xcode/demo.cpp:34:10: error: 'viso_stereo.h' file not found with <angled> include; use "quotes" instead#include <viso_stereo.h>         ^~~~~~~~~~~~~~~         "viso_stereo.h"/Users/wolfgag/LibVisoTest/xcode/demo.cpp:35:10: fatal error: 'png++/png.hpp' file not found#include <png++/png.hpp>         ^2 errors generated.2(36%IDEClangDiagnosticActivityLogMessage2@74"'viso_stereo.h' file not found with <angled> include; use "quotes" instead-435977883#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@48"file:///Users/wolfgag/LibVisoTest/xcode/demo.cpp0000000000000000^33#9#33#9#1184#0#29"Lexical or Preprocessor Issue1(3@48"file:///Users/wolfgag/LibVisoTest/xcode/demo.cpp0000000000000000^33#9#33#24#1184#15#-2@30"'png++/png.hpp' file not found-435977883#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@48"file:///Users/wolfgag/LibVisoTest/xcode/demo.cpp0000000000000000^34#9#34#9#1209#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@48"file:///Users/wolfgag/LibVisoTest/xcode/demo.cpp0000000000000000^2932"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/demo.o demo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wolfgag/LibVisoTest/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-generated-files.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-own-target-headers.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-all-target-headers.hmap -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-project-headers.hmap -iquote../../cinder_0.8.5_mac/include -iquote../include -iquote../blocks/OpenCV/include -iquote../blocks/OpenCV/include/opencv2 -iquote../blocks/QuickTime/include -iquote/Users/wolfgag/indoorPositioning/libviso2/src -I/Users/wolfgag/LibVisoTest/xcode/build/Debug/include -I../../cinder_0.8.5_mac/boost -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources/i386 -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources -F/Users/wolfgag/LibVisoTest/xcode/build/Debug -include /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch -MMD -MT dependencies -MF /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/demo.d --serialize-diagnostics /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/demo.dia -c /Users/wolfgag/LibVisoTest/xcode/demo.cpp -o /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/demo.o36"E79D6C7E-7B3F-4017-B5D1-981086869D75-
+b7762F40F-DA6D-4F05-A9D3-C4B22FBA0FA6
+
+CCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/filter.o /Users/wolfgag/LibVisoTest/xcode/filter.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s435977878.473544
+e435977881.720233
+r1
+xCompileC
+xbuild/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/filter.o
+x/Users/wolfgag/LibVisoTest/xcode/filter.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wolfgag/LibVisoTest/xcode/filter.cpp
+d/Users/wolfgag/indoorPositioning/libviso2/src/filter.h
+o/Users/wolfgag/LibVisoTest/xcode/filter.cpp:182:28: warning: unused variable 'end_input' [-Wunused-variable]
+o      const int16_t* const end_input = in + w*h;
+o                           ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Users/wolfgag/LibVisoTest/xcode/filter.cpp156"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/filter.o filter.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler6e5279967efcb941^0e65b8997efcb941^-208"/Users/wolfgag/LibVisoTest/xcode/filter.cpp:182:28: warning: unused variable 'end_input' [-Wunused-variable]      const int16_t* const end_input = in + w*h;                           ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@27"Unused variable 'end_input'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@50"file:///Users/wolfgag/LibVisoTest/xcode/filter.cpp0000000000000000^181#27#181#27#8021#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@50"file:///Users/wolfgag/LibVisoTest/xcode/filter.cpp0000000000000000^2944"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/filter.o filter.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wolfgag/LibVisoTest/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-generated-files.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-own-target-headers.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-all-target-headers.hmap -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-project-headers.hmap -iquote../../cinder_0.8.5_mac/include -iquote../include -iquote../blocks/OpenCV/include -iquote../blocks/OpenCV/include/opencv2 -iquote../blocks/QuickTime/include -iquote/Users/wolfgag/indoorPositioning/libviso2/src -I/Users/wolfgag/LibVisoTest/xcode/build/Debug/include -I../../cinder_0.8.5_mac/boost -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources/i386 -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources -F/Users/wolfgag/LibVisoTest/xcode/build/Debug -include /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch -MMD -MT dependencies -MF /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/filter.d --serialize-diagnostics /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/filter.dia -c /Users/wolfgag/LibVisoTest/xcode/filter.cpp -o /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/filter.o36"CB6A46BC-ED88-47C0-B05B-DF7E9F1F9E28-
+b7762F40F-DA6D-4F05-A9D3-C4B22FBA0FA6
+
+CCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matcher.o /Users/wolfgag/LibVisoTest/xcode/matcher.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s435977878.472627
+e435977881.717490
+r1
+xCompileC
+xbuild/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matcher.o
+x/Users/wolfgag/LibVisoTest/xcode/matcher.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wolfgag/LibVisoTest/xcode/matcher.cpp
+d/Users/wolfgag/indoorPositioning/libviso2/src/matcher.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/matrix.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/triangle.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/filter.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Compile /Users/wolfgag/LibVisoTest/xcode/matcher.cpp158"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matcher.o matcher.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler674479967efcb941^d9afb7997efcb941^---0#0#1#-19%DVTDocumentLocation2@51"file:///Users/wolfgag/LibVisoTest/xcode/matcher.cpp0000000000000000^2950"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matcher.o matcher.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wolfgag/LibVisoTest/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-generated-files.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-own-target-headers.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-all-target-headers.hmap -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-project-headers.hmap -iquote../../cinder_0.8.5_mac/include -iquote../include -iquote../blocks/OpenCV/include -iquote../blocks/OpenCV/include/opencv2 -iquote../blocks/QuickTime/include -iquote/Users/wolfgag/indoorPositioning/libviso2/src -I/Users/wolfgag/LibVisoTest/xcode/build/Debug/include -I../../cinder_0.8.5_mac/boost -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources/i386 -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources -F/Users/wolfgag/LibVisoTest/xcode/build/Debug -include /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch -MMD -MT dependencies -MF /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matcher.d --serialize-diagnostics /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matcher.dia -c /Users/wolfgag/LibVisoTest/xcode/matcher.cpp -o /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matcher.o36"3AFD966A-A18C-4B90-8CCD-BDCE2F6B5628-
+b7762F40F-DA6D-4F05-A9D3-C4B22FBA0FA6
+
+CCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matrix.o /Users/wolfgag/LibVisoTest/xcode/matrix.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s435977878.472158
+e435977881.640905
+r1
+xCompileC
+xbuild/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matrix.o
+x/Users/wolfgag/LibVisoTest/xcode/matrix.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wolfgag/LibVisoTest/xcode/matrix.cpp
+d/Users/wolfgag/indoorPositioning/libviso2/src/matrix.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Users/wolfgag/LibVisoTest/xcode/matrix.cpp156"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matrix.o matrix.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler6ef978967efcb941^0915a4997efcb941^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/wolfgag/LibVisoTest/xcode/matrix.cpp0000000000000000^2944"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matrix.o matrix.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wolfgag/LibVisoTest/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-generated-files.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-own-target-headers.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-all-target-headers.hmap -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-project-headers.hmap -iquote../../cinder_0.8.5_mac/include -iquote../include -iquote../blocks/OpenCV/include -iquote../blocks/OpenCV/include/opencv2 -iquote../blocks/QuickTime/include -iquote/Users/wolfgag/indoorPositioning/libviso2/src -I/Users/wolfgag/LibVisoTest/xcode/build/Debug/include -I../../cinder_0.8.5_mac/boost -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources/i386 -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources -F/Users/wolfgag/LibVisoTest/xcode/build/Debug -include /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch -MMD -MT dependencies -MF /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matrix.d --serialize-diagnostics /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matrix.dia -c /Users/wolfgag/LibVisoTest/xcode/matrix.cpp -o /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/matrix.o36"0C2FB0BE-F2BB-487B-A67D-C7FDA473EA7E-
+b7762F40F-DA6D-4F05-A9D3-C4B22FBA0FA6
+
+CCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/reconstruction.o /Users/wolfgag/LibVisoTest/xcode/reconstruction.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s435977878.471858
+e435977881.714079
+r1
+xCompileC
+xbuild/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/reconstruction.o
+x/Users/wolfgag/LibVisoTest/xcode/reconstruction.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wolfgag/LibVisoTest/xcode/reconstruction.cpp
+d/Users/wolfgag/indoorPositioning/libviso2/src/reconstruction.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/matcher.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/matrix.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/wolfgag/LibVisoTest/xcode/reconstruction.cpp172"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/reconstruction.o reconstruction.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerebe478967efcb941^81d0b6997efcb941^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/wolfgag/LibVisoTest/xcode/reconstruction.cpp0000000000000000^2992"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/reconstruction.o reconstruction.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wolfgag/LibVisoTest/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-generated-files.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-own-target-headers.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-all-target-headers.hmap -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-project-headers.hmap -iquote../../cinder_0.8.5_mac/include -iquote../include -iquote../blocks/OpenCV/include -iquote../blocks/OpenCV/include/opencv2 -iquote../blocks/QuickTime/include -iquote/Users/wolfgag/indoorPositioning/libviso2/src -I/Users/wolfgag/LibVisoTest/xcode/build/Debug/include -I../../cinder_0.8.5_mac/boost -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources/i386 -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources -F/Users/wolfgag/LibVisoTest/xcode/build/Debug -include /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch -MMD -MT dependencies -MF /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/reconstruction.d --serialize-diagnostics /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/reconstruction.dia -c /Users/wolfgag/LibVisoTest/xcode/reconstruction.cpp -o /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/reconstruction.o36"3973F6B6-28B2-43A2-AF24-8433D8F5928B-
+b7762F40F-DA6D-4F05-A9D3-C4B22FBA0FA6
+
+CCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/triangle.o /Users/wolfgag/LibVisoTest/xcode/triangle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s435977878.471414
+e435977881.800731
+r1
+xCompileC
+xbuild/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/triangle.o
+x/Users/wolfgag/LibVisoTest/xcode/triangle.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wolfgag/LibVisoTest/xcode/triangle.cpp
+d/Users/wolfgag/indoorPositioning/libviso2/src/triangle.h
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1264:13: warning: unused variable 'k' [-Wunused-variable]
+o  int i, j, k;
+o            ^
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1265:8: warning: unused variable 'workstring' [-Wunused-variable]
+o  char workstring[FILENAMESIZE];
+o       ^
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1422:50: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o  printf("triangle x%lx with orientation %d:\n", (unsigned long long) t->tri,
+o                    ~~~                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+o                    %llx
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1428:36: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o    printf("    [0] = x%lx  %d\n", (unsigned long long) printtri.tri,
+o                       ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o                       %llx
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1435:36: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o    printf("    [1] = x%lx  %d\n", (unsigned long long) printtri.tri,
+o                       ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o                       %llx
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1442:36: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o    printf("    [2] = x%lx  %d\n", (unsigned long long) printtri.tri,
+o                       ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o                       %llx
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1451:37: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o           (t->orient + 1) % 3 + 3, (unsigned long long) printvertex,
+o                                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1458:37: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o           (t->orient + 2) % 3 + 3, (unsigned long long) printvertex,
+o                                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1465:27: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o           t->orient + 3, (unsigned long long) printvertex,
+o                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1471:38: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o      printf("    [6] = x%lx  %d\n", (unsigned long long) printsh.ss,
+o                         ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o                         %llx
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1476:38: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o      printf("    [7] = x%lx  %d\n", (unsigned long long) printsh.ss,
+o                         ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o                         %llx
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1481:38: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o      printf("    [8] = x%lx  %d\n", (unsigned long long) printsh.ss,
+o                         ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o                         %llx
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1509:10: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o         (unsigned long long) s->ss, s->ssorient, mark(*s));
+o         ^~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1514:36: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o    printf("    [0] = x%lx  %d\n", (unsigned long long) printsh.ss,
+o                       ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o                       %llx
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1521:36: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o    printf("    [1] = x%lx  %d\n", (unsigned long long) printsh.ss,
+o                       ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o                       %llx
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1530:29: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o           2 + s->ssorient, (unsigned long long) printvertex,
+o                            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1537:29: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o           3 - s->ssorient, (unsigned long long) printvertex,
+o                            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1544:36: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o    printf("    [6] = x%lx  %d\n", (unsigned long long) printtri.tri,
+o                       ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o                       %llx
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1551:36: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o    printf("    [7] = x%lx  %d\n", (unsigned long long) printtri.tri,
+o                       ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o                       %llx
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1560:29: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o           4 + s->ssorient, (unsigned long long) printvertex,
+o                            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1567:29: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]
+o           5 - s->ssorient, (unsigned long long) printvertex,
+o                            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o21 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/wolfgag/LibVisoTest/xcode/triangle.cpp160"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/triangle.o triangle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler9ecf78967efcb941^2ffccc997efcb941^-6184"/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1264:13: warning: unused variable 'k' [-Wunused-variable]  int i, j, k;            ^/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1265:8: warning: unused variable 'workstring' [-Wunused-variable]  char workstring[FILENAMESIZE];       ^/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1422:50: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]  printf("triangle x%lx with orientation %d:\n", (unsigned long long) t->tri,                    ~~~                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~                    %llx/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1428:36: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]    printf("    [0] = x%lx  %d\n", (unsigned long long) printtri.tri,                       ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                       %llx/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1435:36: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]    printf("    [1] = x%lx  %d\n", (unsigned long long) printtri.tri,                       ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                       %llx/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1442:36: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]    printf("    [2] = x%lx  %d\n", (unsigned long long) printtri.tri,                       ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                       %llx/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1451:37: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]           (t->orient + 1) % 3 + 3, (unsigned long long) printvertex,                                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1458:37: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]           (t->orient + 2) % 3 + 3, (unsigned long long) printvertex,                                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1465:27: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]           t->orient + 3, (unsigned long long) printvertex,                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1471:38: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]      printf("    [6] = x%lx  %d\n", (unsigned long long) printsh.ss,                         ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                         %llx/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1476:38: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]      printf("    [7] = x%lx  %d\n", (unsigned long long) printsh.ss,                         ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                         %llx/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1481:38: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]      printf("    [8] = x%lx  %d\n", (unsigned long long) printsh.ss,                         ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                         %llx/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1509:10: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]         (unsigned long long) s->ss, s->ssorient, mark(*s));         ^~~~~~~~~~~~~~~~~~~~~~~~~~/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1514:36: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]    printf("    [0] = x%lx  %d\n", (unsigned long long) printsh.ss,                       ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                       %llx/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1521:36: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]    printf("    [1] = x%lx  %d\n", (unsigned long long) printsh.ss,                       ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                       %llx/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1530:29: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]           2 + s->ssorient, (unsigned long long) printvertex,                            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1537:29: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]           3 - s->ssorient, (unsigned long long) printvertex,                            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1544:36: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]    printf("    [6] = x%lx  %d\n", (unsigned long long) printtri.tri,                       ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                       %llx/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1551:36: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]    printf("    [7] = x%lx  %d\n", (unsigned long long) printtri.tri,                       ~~~         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                       %llx/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1560:29: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]           4 + s->ssorient, (unsigned long long) printvertex,                            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/wolfgag/LibVisoTest/xcode/triangle.cpp:1567:29: warning: format specifies type 'unsigned long' but the argument has type 'unsigned long long' [-Wformat]           5 - s->ssorient, (unsigned long long) printvertex,                            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~21 warnings generated.21(36%IDEClangDiagnosticActivityLogMessage2@19"Unused variable 'k'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1263#12#1263#12#74971#0#19"Unused Entity Issue--2@28"Unused variable 'workstring'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1264#7#1264#7#74981#0#19"Unused Entity Issue--2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1421#49#1421#49#80128#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1421#49#1421#76#80128#24#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1421#20#1421#23#80099#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1421#20#1421#23#80099#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1427#35#1427#35#80331#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1427#35#1427#68#80331#30#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1427#23#1427#26#80319#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1427#23#1427#26#80319#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1434#35#1434#35#80552#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1434#35#1434#68#80552#30#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1434#23#1434#26#80540#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1434#23#1434#26#80540#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1441#35#1441#35#80773#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1441#35#1441#68#80773#30#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1441#23#1441#26#80761#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1441#23#1441#26#80761#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1450#36#1450#36#81063#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1450#36#1450#68#81063#21#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1449#30#1449#33#81003#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1449#30#1449#33#81003#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1457#36#1457#36#81363#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1457#36#1457#68#81363#21#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1456#30#1456#33#81303#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1456#30#1456#33#81303#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1464#26#1464#26#81643#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1464#26#1464#58#81643#21#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1463#30#1463#33#81593#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1463#30#1463#33#81593#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1470#37#1470#37#81853#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1470#37#1470#68#81853#29#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1470#25#1470#28#81841#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1470#25#1470#28#81841#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1475#37#1475#37#82031#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1475#37#1475#68#82031#29#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1475#25#1475#28#82019#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1475#25#1475#28#82019#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1480#37#1480#37#82209#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1480#37#1480#68#82209#29#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1480#25#1480#28#82197#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1480#25#1480#28#82197#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1508#9#1508#9#83385#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1508#9#1508#35#83385#24#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1507#22#1507#25#83335#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1507#22#1507#25#83335#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1513#35#1513#35#83589#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1513#35#1513#66#83589#29#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1513#23#1513#26#83577#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1513#23#1513#26#83577#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1520#35#1520#35#83808#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1520#35#1520#66#83808#29#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1520#23#1520#26#83796#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1520#23#1520#26#83796#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1529#28#1529#28#84082#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1529#28#1529#60#84082#21#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1528#30#1528#33#84030#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1528#30#1528#33#84030#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1536#28#1536#28#84367#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1536#28#1536#60#84367#21#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1535#30#1535#33#84315#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1535#30#1535#33#84315#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1543#35#1543#35#84598#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1543#35#1543#68#84598#30#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1543#23#1543#26#84586#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1543#23#1543#26#84586#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1550#35#1550#35#84818#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1550#35#1550#68#84818#30#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1550#23#1550#26#84806#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1550#23#1550#26#84806#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1559#28#1559#28#85111#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1559#28#1559#60#85111#21#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1558#38#1558#41#85059#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1558#38#1558#41#85059#3#-2@84"Format specifies type 'unsigned long' but the argument has type 'unsigned long long'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1566#28#1566#28#85414#0#19"Format String Issue3(3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1566#28#1566#60#85414#21#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1565#38#1565#41#85362#3#3@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^1565#38#1565#41#85362#3#-0#0#1#-19%DVTDocumentLocation4@52"file:///Users/wolfgag/LibVisoTest/xcode/triangle.cpp0000000000000000^2956"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/triangle.o triangle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wolfgag/LibVisoTest/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-generated-files.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-own-target-headers.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-all-target-headers.hmap -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-project-headers.hmap -iquote../../cinder_0.8.5_mac/include -iquote../include -iquote../blocks/OpenCV/include -iquote../blocks/OpenCV/include/opencv2 -iquote../blocks/QuickTime/include -iquote/Users/wolfgag/indoorPositioning/libviso2/src -I/Users/wolfgag/LibVisoTest/xcode/build/Debug/include -I../../cinder_0.8.5_mac/boost -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources/i386 -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources -F/Users/wolfgag/LibVisoTest/xcode/build/Debug -include /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch -MMD -MT dependencies -MF /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/triangle.d --serialize-diagnostics /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/triangle.dia -c /Users/wolfgag/LibVisoTest/xcode/triangle.cpp -o /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/triangle.o36"A95E6EF6-3D24-418D-9B6D-8C356D7BFC94-
+b7762F40F-DA6D-4F05-A9D3-C4B22FBA0FA6
+
+CCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso.o /Users/wolfgag/LibVisoTest/xcode/viso.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s435977878.470783
+e435977881.712321
+r1
+xCompileC
+xbuild/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso.o
+x/Users/wolfgag/LibVisoTest/xcode/viso.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wolfgag/LibVisoTest/xcode/viso.cpp
+d/Users/wolfgag/indoorPositioning/libviso2/src/viso.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/matrix.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/matcher.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Compile /Users/wolfgag/LibVisoTest/xcode/viso.cpp152"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso.o viso.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler0f9778967efcb941^755bb6997efcb941^---0#0#1#-19%DVTDocumentLocation2@48"file:///Users/wolfgag/LibVisoTest/xcode/viso.cpp0000000000000000^2932"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso.o viso.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wolfgag/LibVisoTest/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-generated-files.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-own-target-headers.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-all-target-headers.hmap -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-project-headers.hmap -iquote../../cinder_0.8.5_mac/include -iquote../include -iquote../blocks/OpenCV/include -iquote../blocks/OpenCV/include/opencv2 -iquote../blocks/QuickTime/include -iquote/Users/wolfgag/indoorPositioning/libviso2/src -I/Users/wolfgag/LibVisoTest/xcode/build/Debug/include -I../../cinder_0.8.5_mac/boost -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources/i386 -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources -F/Users/wolfgag/LibVisoTest/xcode/build/Debug -include /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch -MMD -MT dependencies -MF /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso.d --serialize-diagnostics /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso.dia -c /Users/wolfgag/LibVisoTest/xcode/viso.cpp -o /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso.o36"F2E56BE0-EF57-4B77-8B35-C7907B949557-
+b7762F40F-DA6D-4F05-A9D3-C4B22FBA0FA6
+
+CCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_mono.o /Users/wolfgag/LibVisoTest/xcode/viso_mono.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s435977878.471161
+e435977881.719015
+r1
+xCompileC
+xbuild/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_mono.o
+x/Users/wolfgag/LibVisoTest/xcode/viso_mono.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wolfgag/LibVisoTest/xcode/viso_mono.cpp
+d/Users/wolfgag/indoorPositioning/libviso2/src/viso_mono.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/viso.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/matrix.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/matcher.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Users/wolfgag/LibVisoTest/xcode/viso_mono.cpp162"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_mono.o viso_mono.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler69ad78967efcb941^0e14b8997efcb941^---0#0#1#-19%DVTDocumentLocation2@53"file:///Users/wolfgag/LibVisoTest/xcode/viso_mono.cpp0000000000000000^2962"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_mono.o viso_mono.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wolfgag/LibVisoTest/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-generated-files.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-own-target-headers.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-all-target-headers.hmap -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-project-headers.hmap -iquote../../cinder_0.8.5_mac/include -iquote../include -iquote../blocks/OpenCV/include -iquote../blocks/OpenCV/include/opencv2 -iquote../blocks/QuickTime/include -iquote/Users/wolfgag/indoorPositioning/libviso2/src -I/Users/wolfgag/LibVisoTest/xcode/build/Debug/include -I../../cinder_0.8.5_mac/boost -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources/i386 -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources -F/Users/wolfgag/LibVisoTest/xcode/build/Debug -include /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch -MMD -MT dependencies -MF /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_mono.d --serialize-diagnostics /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_mono.dia -c /Users/wolfgag/LibVisoTest/xcode/viso_mono.cpp -o /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_mono.o36"15ADED0F-C0A1-45A1-A2EA-8EFF83A7FA08-
+b7762F40F-DA6D-4F05-A9D3-C4B22FBA0FA6
+
+CCompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_stereo.o /Users/wolfgag/LibVisoTest/xcode/viso_stereo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s435977878.470963
+e435977881.720235
+r1
+xCompileC
+xbuild/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_stereo.o
+x/Users/wolfgag/LibVisoTest/xcode/viso_stereo.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wolfgag/LibVisoTest/xcode/viso_stereo.cpp
+d/Users/wolfgag/indoorPositioning/libviso2/src/viso_stereo.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/viso.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/matrix.h
+d/Users/wolfgag/indoorPositioning/libviso2/src/matcher.h
+o/Users/wolfgag/LibVisoTest/xcode/viso_stereo.cpp:53:10: warning: unused variable 'min_dist' [-Wunused-variable]
+o  double min_dist = min(width,height)/3.0;
+o         ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/wolfgag/LibVisoTest/xcode/viso_stereo.cpp166"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_stereo.o viso_stereo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler34a278967efcb941^3468b8997efcb941^-187"/Users/wolfgag/LibVisoTest/xcode/viso_stereo.cpp:53:10: warning: unused variable 'min_dist' [-Wunused-variable]  double min_dist = min(width,height)/3.0;         ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@26"Unused variable 'min_dist'-435977881#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@55"file:///Users/wolfgag/LibVisoTest/xcode/viso_stereo.cpp0000000000000000^52#9#52#9#1955#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@55"file:///Users/wolfgag/LibVisoTest/xcode/viso_stereo.cpp0000000000000000^2974"CompileC build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_stereo.o viso_stereo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wolfgag/LibVisoTest/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-generated-files.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-own-target-headers.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-all-target-headers.hmap -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-project-headers.hmap -iquote../../cinder_0.8.5_mac/include -iquote../include -iquote../blocks/OpenCV/include -iquote../blocks/OpenCV/include/opencv2 -iquote../blocks/QuickTime/include -iquote/Users/wolfgag/indoorPositioning/libviso2/src -I/Users/wolfgag/LibVisoTest/xcode/build/Debug/include -I../../cinder_0.8.5_mac/boost -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources/i386 -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources -F/Users/wolfgag/LibVisoTest/xcode/build/Debug -include /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch -MMD -MT dependencies -MF /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_stereo.d --serialize-diagnostics /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_stereo.dia -c /Users/wolfgag/LibVisoTest/xcode/viso_stereo.cpp -o /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/Objects-normal/i386/viso_stereo.o36"AEDA8644-AF05-4249-8FA9-49B24FCE1F10-
+b7762F40F-DA6D-4F05-A9D3-C4B22FBA0FA6
+
+CCpResource /Users/wolfgag/LibVisoTest/resources/CinderApp.icns build/Debug/LibVisoTest.app/Contents/Resources/CinderApp.icns
+s435977872.880119
+e435977872.887925
+r1
+xCpResource
+x/Users/wolfgag/LibVisoTest/resources/CinderApp.icns
+xbuild/Debug/LibVisoTest.app/Contents/Resources/CinderApp.icns
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug/LibVisoTest.app/Contents/Resources/CinderApp.icns124"CpResource /Users/wolfgag/LibVisoTest/resources/CinderApp.icns build/Debug/LibVisoTest.app/Contents/Resources/CinderApp.icns9f5ae1907efcb941^1152e3907efcb941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/wolfgag/LibVisoTest/xcode/build/Debug/LibVisoTest.app/Contents/Resources/CinderApp.icns00342041deffdf42^409"CpResource /Users/wolfgag/LibVisoTest/resources/CinderApp.icns build/Debug/LibVisoTest.app/Contents/Resources/CinderApp.icns    cd /Users/wolfgag/LibVisoTest/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wolfgag/LibVisoTest/resources/CinderApp.icns /Users/wolfgag/LibVisoTest/xcode/build/Debug/LibVisoTest.app/Contents/Resources36"84F78E3A-C64F-4FF9-BBDB-37FCAFF8694B-
+b7762F40F-DA6D-4F05-A9D3-C4B22FBA0FA6
+
+CLd /Users/wolfgag/LibVisoTest/xcode/build/Debug/LibVisoTest.app/Contents/MacOS/LibVisoTest normal i386
+r0
+
+CProcessInfoPlistFile /Users/wolfgag/LibVisoTest/xcode/build/Debug/LibVisoTest.app/Contents/Info.plist /Users/wolfgag/LibVisoTest/xcode/Info.plist
+s435977872.864657
+e435977872.879730
+r1
+xProcessInfoPlistFile
+x/Users/wolfgag/LibVisoTest/xcode/build/Debug/LibVisoTest.app/Contents/Info.plist
+x/Users/wolfgag/LibVisoTest/xcode/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Process /Users/wolfgag/LibVisoTest/xcode/Info.plist79"ProcessInfoPlistFile build/Debug/LibVisoTest.app/Contents/Info.plist Info.plistd670dd907efcb941^e736e1907efcb941^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/wolfgag/LibVisoTest/xcode/Info.plist0000000000000000^405"ProcessInfoPlistFile build/Debug/LibVisoTest.app/Contents/Info.plist Info.plist    cd /Users/wolfgag/LibVisoTest/xcode    builtin-infoPlistUtility /Users/wolfgag/LibVisoTest/xcode/Info.plist -genpkginfo /Users/wolfgag/LibVisoTest/xcode/build/Debug/LibVisoTest.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/wolfgag/LibVisoTest/xcode/build/Debug/LibVisoTest.app/Contents/Info.plist36"16DF6E4F-E05A-49FD-AD89-886B241999FE-
+b7762F40F-DA6D-4F05-A9D3-C4B22FBA0FA6
+
+CProcessPCH++ /Users/wolfgag/LibVisoTest/xcode/DerivedData/LibVisoTest/Index/PrecompiledHeaders/LibVisoTest_Prefix-bubhrbpocsituvbbixulhmumybqn_ast/LibVisoTest_Prefix.pch.pch LibVisoTest_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/wolfgag/LibVisoTest/xcode/DerivedData/LibVisoTest/Index/PrecompiledHeaders/LibVisoTest_Prefix-fjvsutqctlovkpgfkmulwlhofngn_ast/LibVisoTest_Prefix.pch.pch LibVisoTest_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch.pch LibVisoTest_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s435977872.888628
+e435977878.468438
+r1
+xProcessPCH++
+x/var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch.pch
+xLibVisoTest_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wolfgag/LibVisoTest/xcode/LibVisoTest_Prefix.pch
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Cinder.h
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/version.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/checked_delete.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/app/AppBasic.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/app/App.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/app/Renderer.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/gl/gl.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Exception.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Quaternion.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/CinderMath.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Vector.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Matrix.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Matrix22.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/MatrixAffine2.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Matrix33.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Matrix44.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/MatrixAlgo.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Color.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/ChanTraits.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Rect.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Area.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Font.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Shape2d.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Path2d.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/BSpline.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/DataSource.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Url.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Stream.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Buffer.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Filesystem.h
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/filesystem.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/filesystem/config.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config/user.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config/select_compiler_config.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config/compiler/clang.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config/select_stdlib_config.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config/no_tr1/utility.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config/stdlib/libcpp.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config/select_platform_config.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config/platform/macos.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config/posix_features.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config/suffix.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/system/api_config.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/detail/workaround.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config/auto_link.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/filesystem/path.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/filesystem/path_traits.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/utility/enable_if.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_array.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/config.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/bool_trait_def.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/template_arity_spec.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/int.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/int_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/adl_barrier.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/adl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/msvc.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/intel.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/gcc.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/workaround.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/nttp_decl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/nttp.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/integral_wrapper.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/integral_c_tag.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/static_constant.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/static_cast.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/cat.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/config/config.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/template_arity_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessor/params.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/preprocessor.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/comma_if.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/punctuation/comma_if.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/control/if.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/control/iif.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/logical/bool.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/facilities/empty.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/punctuation/comma.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/repeat.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/repetition/repeat.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/debug/error.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/detail/auto_rec.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/tuple/eat.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/inc.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/arithmetic/inc.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/lambda.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/ttp.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/ctps.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/overload_resolution.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/integral_constant.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/bool.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/bool_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/integral_c.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/integral_c_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/lambda_support.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/bool_trait_undef.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/decay.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_function.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_reference.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_lvalue_reference.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_rvalue_reference.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/ice.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/yes_no_type.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/ice_or.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/ice_and.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/ice_not.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/ice_eq.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/false_result.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/is_function_ptr_helper.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/remove_bounds.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/type_trait_def.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/type_trait_undef.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/add_pointer.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/remove_reference.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/broken_compiler_spec.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/eval_if.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/if.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/value_wknd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/integral.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/eti.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/na_spec.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/lambda_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/void_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/na.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/na_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/lambda_arity_param.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/arity.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/dtp.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessor/enum.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessor/def_params_tail.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/limits/arity.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/logical/and.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/logical/bitand.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/identity.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/facilities/identity.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/empty.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/arithmetic/add.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/arithmetic/dec.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/control/while.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/list/fold_left.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/list/detail/fold_left.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/control/expr_iif.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/list/adt.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/detail/is_binary.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/detail/check.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/logical/compl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/list/fold_right.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/list/detail/fold_right.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/list/reverse.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/control/detail/while.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/tuple/elem.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/facilities/overload.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/variadic/size.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/tuple/rem.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/variadic/elem.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/arithmetic/sub.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/identity.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/system/error_code.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/system/config.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/cstdint.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/assert.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/current_function.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/operators.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iterator.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/noncopyable.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/cerrno.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config/abi_prefix.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config/abi_suffix.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/system/system_error.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iterator/iterator_facade.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iterator/interoperable.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/or.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/use_preprocessed.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/nested_type_wknd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/include_preprocessed.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/compiler.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/stringize.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/or.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_convertible.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/intrinsics.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_same.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_volatile.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/cv_traits_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_abstract.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iterator/detail/config_def.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iterator/detail/config_undef.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iterator/iterator_traits.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/detail/iterator.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iterator/detail/facade_iterator_category.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iterator/iterator_categories.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/placeholders.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/arg.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/arg_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/na_assert.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/assert.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/not.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/yes_no.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/arrays.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/pp_counter.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/arity_spec.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/arg_typedef.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/arg.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/static_assert.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/and.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/and.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_const.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/detail/indirect_traits.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_pointer.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_member_pointer.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_member_function_pointer.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/remove_cv.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_class.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/remove_pointer.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iterator/detail/enable_if.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/utility/addressof.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/add_const.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/remove_const.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_pod.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_void.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_scalar.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_arithmetic.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_integral.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_float.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_enum.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/always.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/apply.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/apply_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/apply_wrap.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/has_apply.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/has_xxx.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/type_wrapper.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/has_xxx.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/msvc_typename.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/array/elem.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/array/data.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/array/size.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/repetition/enum_params.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/repetition/enum_trailing_params.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/has_apply.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/msvc_never_true.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/apply_wrap.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/lambda.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/bind.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/bind_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/bind.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/next.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/next_prior.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/common_name_wknd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/protect.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/bind.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/full_lambda.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/quote.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/void.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/has_type.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/bcc.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/quote.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/template_arity.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/apply.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/shared_ptr.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/shared_ptr.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config/no_tr1/memory.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/throw_exception.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/detail/shared_count.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/bad_weak_ptr.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/detail/sp_counted_base.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/detail/sp_has_sync.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/detail/sp_typeinfo.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/detail/sp_counted_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/detail/sp_convertible.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/detail/sp_nullptr_t.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/detail/spinlock_pool.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/detail/spinlock.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/detail/spinlock_sync.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/detail/yield_k.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/memory_order.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/detail/operator_bool.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/io/detail/quoted_manip.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/io/ios_state.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/io_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/functional/hash_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/functional/hash/hash_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/filesystem/operations.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/detail/scoped_enum_emulation.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/detail/bitmask.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/filesystem/convenience.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/concepts.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/categories.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/default_arg.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/ios.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/config/wide_streams.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/positioning.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/integer_traits.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/limits.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/config/codecvt.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/config/fpos.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/config/disable_warnings.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/config/enable_warnings.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/stream.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/constants.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/char_traits.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/config/overload_resolution.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/config/gcc.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/forward.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/config/limits.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/push_params.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/repetition/enum_binary_params.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/repetition/repeat_from_to.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/iostream.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/select.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_base_and_derived.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/stream_buffer.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/streambuf/direct_streambuf.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/error.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/execute.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/iteration/local.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/slot/slot.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/slot/detail/def.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/utility/result_of.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/iteration/iterate.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/repetition/enum_shifted_params.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/facilities/intercept.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/utility/declval.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/add_rvalue_reference.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/iteration/detail/iter/forward1.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/iteration/detail/bounds/lower1.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/slot/detail/shared.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/iteration/detail/bounds/upper1.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/utility/detail/result_of_iterate.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/iteration/detail/local.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/functional.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/close.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/flush.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/dispatch.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/traits.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/bool_trait_def.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/template_params.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/control/expr_if.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/is_iterator_range.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/select_by_size.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/wrap_unwrap.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/enable_if_stream.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/traits_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/ref.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/iterator_range.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/iterator_range_core.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/functions.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/begin.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/config.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/iterator.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/mutable_iterator.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/detail/extract_optional_type.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/const_iterator.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/end.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/detail/implementation_help.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/detail/common.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/detail/sfinae.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/size.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/size_type.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/difference_type.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/make_unsigned.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_signed.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_unsigned.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/add_volatile.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/distance.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/empty.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/rbegin.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/reverse_iterator.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iterator/reverse_iterator.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/next_prior.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iterator/iterator_adaptor.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/add_reference.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/rend.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/algorithm/equal.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/concepts.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/concept_check.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/concept/assert.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/concept/detail/general.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/concept/detail/backward_compatibility.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/concept/detail/has_constraints.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/conversion_traits.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/concept/usage.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/concept/detail/concept_def.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/seq/for_each_i.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/repetition/for.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/repetition/detail/for.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/seq/seq.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/seq/elem.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/seq/size.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/seq/enum.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/concept/detail/concept_undef.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iterator/iterator_concepts.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/value_type.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/detail/misc_concept.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/detail/safe_bool.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/range/iterator_range_io.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/streambuf.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/operations_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/adapter/non_blocking_adapter.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/read.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/char_traits.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/seek.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/write.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/optional.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/aligned_storage.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/aligned_storage.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/alignment_of.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/size_t_trait_def.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/size_t.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/size_t_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/detail/size_t_trait_undef.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/type_with_alignment.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/list/for_each_i.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/tuple/to_list.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/list/transform.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/list/append.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/streambuf/linked_streambuf.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/operations.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/imbue.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/input_sequence.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/optimal_buffer_size.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/output_sequence.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/streambuf/indirect_streambuf.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/adapter/concept_adapter.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/call_traits.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/config/unreachable_return.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/device/null.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/buffer.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/checked_operations.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/get.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/put.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/double_object.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/call_traits.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/detail/call_traits.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/push.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/adapter/range_adapter.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/pipeline.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/resolve.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/detail/is_incrementable.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/adapter/mode_adapter.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/adapter/output_iterator_adapter.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/detail/is_dereferenceable.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/iostreams/device/array.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/utility/base_from_member.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/PolyLine.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/AxisAlignedBox.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Ray.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Surface.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Channel.h
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/logic/tribool.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/logic/tribool_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Display.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Function.h
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/deconstruct.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/deconstruct_ptr.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/postconstructible.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/predestructible.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/dummy_mutex.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/last_value.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/optional.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/optional/optional.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/has_nothrow_constructor.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/has_trivial_constructor.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/detail/reference_content.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/has_nothrow_copy.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/has_trivial_copy.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/none.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/none_t.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/utility/swap.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/utility/compare_pointees.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/utility/in_place_factory.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/utility/detail/in_place_factory_prefix.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/punctuation/paren.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/repetition/enum.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/utility/detail/in_place_factory_suffix.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/optional/optional_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/expired_slot.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/signal.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/function.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/iterate.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/function/detail/prologue.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/config/no_tr1/functional.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/function/function_base.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/integer.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/integer_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/has_trivial_destructor.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/composite_traits.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_union.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/function_equal.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/function/function_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mem_fn.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/bind/mem_fn.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/get_pointer.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/bind/mem_fn_template.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/bind/mem_fn_cc.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/enum.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/enum_params.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/function/detail/function_iterate.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/function/detail/maybe_include.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/function/function_template.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/detail/no_exceptions_support.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/connection.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/null_output_iterator.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/function_output_iterator.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/unique_lock.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/slot.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/bind.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/bind/bind.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/is_placeholder.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/bind/arg.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/visit_each.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/bind/storage.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/bind/bind_template.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/bind/bind_cc.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/bind/bind_mf_cc.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/bind/bind_mf2_cc.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/bind/placeholders.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/signals_common.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/signal_base.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_base_of.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/signals_common_macros.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/tracked_objects_visitor.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/slot_base.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/any.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/weak_ptr.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/weak_ptr.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/foreign_ptr.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/scoped_ptr.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/smart_ptr/scoped_ptr.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/apply_visitor.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/apply_visitor_unary.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/generic_result_type.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/apply_visitor_binary.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/apply_visitor_delayed.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/variant.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/config.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/variant_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/blank_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/enum_shifted_params.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/limits/list.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/substitute_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/backup_holder.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/enable_recursive_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/forced_return.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/initializer.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/recursive_wrapper_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/move.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/iter_fold.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/begin_end.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/begin_end_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/begin_end_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/sequence_tag_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/has_begin.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/traits_lambda_spec.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/sequence_tag.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/has_tag.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/is_msvc_eti_arg.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/O1_size.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/O1_size_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/O1_size_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/long.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/long_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/has_size.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/forwarding.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/iter_fold_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/iter_fold_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/deref.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/msvc_type.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/pair.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/msvc_eti_base.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/make_variant_list.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/list20.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/list10.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/list0.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/aux_/push_front.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/push_front_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/aux_/item.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/aux_/tag.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/aux_/pop_front.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/pop_front_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/aux_/push_back.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/push_back_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/aux_/front.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/front_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/aux_/clear.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/clear_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/aux_/O1_size.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/aux_/size.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/size_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/aux_/empty.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/empty_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/aux_/begin_end.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/aux_/iterator.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/iterator_tags.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/lambda_spec.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/aux_/include_preprocessed.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/aux_/preprocessed/plain/list10.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/list/aux_/preprocessed/plain/list20.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/list.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/over_sequence.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/visitation_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/cast_storage.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/has_nothrow_move.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/has_trivial_move.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/has_trivial_assign.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/bool_trait_def.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/bool_trait_undef.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/has_nothrow_assign.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/hash_variant.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/static_visitor.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/blank.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/detail/templated_streams.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_empty.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/is_stateless.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/math/common_factor_ct.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/math_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/empty.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/empty_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/find_if.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/find_if_pred.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/iter_apply.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/iter_fold_if.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/logical.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/iter_fold_if_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/iter_fold_if_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/fold.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/fold_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/fold_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/front.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/front_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/is_sequence.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/iterator_range.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/max_element.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/less.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/comparison_op.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/numeric_op.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/numeric_cast.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/tag.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/numeric_cast_utils.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/less.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/push_front.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/push_front_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/same_as.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/sizeof.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/transform.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/reverse_fold.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/reverse_fold_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/reverse_fold_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/pair_view.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/iterator_category.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/advance.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/advance_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/negate.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/advance_forward.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/advance_forward.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/advance_backward.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/prior.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/advance_backward.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/distance.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/distance_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/min_max.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/inserter_algorithm.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/back_inserter.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/push_back.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/push_back_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/inserter.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/front_inserter.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/clear.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/clear_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessor/default_params.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/variant/detail/variant_io.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/trackable.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/variadic_slot.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/variadic_arg_type.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/slot_template.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/replace_slot_function.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/result_type_wrapper.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/slot_groups.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/slot_call_iterator.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/auto_buffer.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/multi_index/detail/scope_guard.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/swap.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/optional_last_value.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/mutex.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/lwm_pthreads.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/variadic_signal.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/variadic_slot_invoker.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/type_traits/function_traits.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/detail/signal_template.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/signal_type.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/parameters.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/detail/is_xxx.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/repetition/enum_shifted.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/arg_list.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/void.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/result_of0.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/default.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/parameter_requirements.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/yesno.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/is_maybe.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/config.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/begin.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/end.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/unwrap_cv_reference.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/tagged_argument.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/tag.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/template_keyword.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/set.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/insert.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/insert_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/insert_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/set0.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/aux_/at_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/at_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/aux_/has_key_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/aux_/tag.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/has_key_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/overload_names.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/ptr_to_ref.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/config/operators.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/aux_/clear_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/aux_/set0.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/aux_/size_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/aux_/empty_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/aux_/insert_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/aux_/item.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/base.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/aux_/erase_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/erase_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/aux_/erase_key_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/erase_key_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/aux_/key_type_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/key_type_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/aux_/value_type_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/value_type_fwd.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/aux_/begin_end_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/set/aux_/iterator.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/has_key.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/mpl/aux_/has_key_impl.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/overloads.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/keyword.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/binding.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/value_type.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/macros.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/match.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/name.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/preprocessor.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/parenthesized_type.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/cast.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/preprocessor/flatten.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/seq/for_each.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/selection/max.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/comparison/less_equal.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/logical/not.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/repetition/enum_trailing.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/parameter/aux_/preprocessor/for_each.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/detail/split.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/facilities/is_empty.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/for.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/repetition/deduce_r.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/comparison/equal.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/comparison/not_equal.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/seq/first_n.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/seq/detail/split.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/seq/for_each_product.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/seq/fold_left.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/seq/push_back.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/preprocessor/detail/is_nullary.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/boost/boost/signals2/shared_connection_block.hpp
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/app/Window.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/app/MouseEvent.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/app/Event.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/app/TouchEvent.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/app/KeyEvent.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/app/FileDropEvent.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Timer.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/Thread.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/cocoa/CinderCocoa.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/ImageIo.h
+d/Users/wolfgag/cinder_0.8.5_mac/include/cinder/DataTarget.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile LibVisoTest_Prefix.pch286"ProcessPCH++ /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch.pch LibVisoTest_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerd68de3907efcb941^1cee77967efcb941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/wolfgag/LibVisoTest/xcode/LibVisoTest_Prefix.pch0000000000000000^3136"ProcessPCH++ /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch.pch LibVisoTest_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wolfgag/LibVisoTest/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-generated-files.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-own-target-headers.hmap -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-all-target-headers.hmap -iquote /Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/LibVisoTest-project-headers.hmap -iquote../../cinder_0.8.5_mac/include -iquote../include -iquote../blocks/OpenCV/include -iquote../blocks/OpenCV/include/opencv2 -iquote../blocks/QuickTime/include -iquote/Users/wolfgag/indoorPositioning/libviso2/src -I/Users/wolfgag/LibVisoTest/xcode/build/Debug/include -I../../cinder_0.8.5_mac/boost -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources/i386 -I/Users/wolfgag/LibVisoTest/xcode/build/LibVisoTest.build/Debug/LibVisoTest.build/DerivedSources -F/Users/wolfgag/LibVisoTest/xcode/build/Debug --serialize-diagnostics /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch.d -c /Users/wolfgag/LibVisoTest/xcode/LibVisoTest_Prefix.pch -o /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-csxwlrtdqbfnupfuzqakilsnfveb/LibVisoTest_Prefix.pch.pch36"67F9899D-10BD-493A-9614-066D56017F95-
+b7762F40F-DA6D-4F05-A9D3-C4B22FBA0FA6
+
+CProcessPCH++ /var/folders/r7/4x0kd2d95x9bnzvqrb4zcb0m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/LibVisoTest_Prefix-eddlqeznbadpsndddwetvjvgbtsu/LibVisoTest_Prefix.pch.pch LibVisoTest_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CTouch /Users/wolfgag/LibVisoTest/xcode/build/Debug/LibVisoTest.app
+r0
+
